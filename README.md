@@ -108,125 +108,32 @@ For evaluation and testing purposes, you can use the following pre-configured ac
   <tr>
     <td align="center" width="100%">
       <img width="914" height="609" alt="image" src="https://github.com/user-attachments/assets/fc4fa264-3ea9-4875-8d7e-0cc741624434" />
-      <br/><b>Fig 31: Swagger API Documentation for Back-End</b>
+      <br/><b>Swagger API Documentation for Back-End</b>
     </td>
   </tr>
 </table>
 
-### 🔐 Authentication & Profile Management
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-       <img width="975" height="455" alt="image" src="https://github.com/user-attachments/assets/ecd13e4c-37b7-44f0-9598-041c071f710f" />
-      <br/><b>Fig 32: Login Screen</b>
-    </td>
-    <td align="center" width="50%">
-       <img width="813" height="379" alt="image" src="https://github.com/user-attachments/assets/dc7758ff-238a-4da5-86bc-57766e6c7b5a" />
-      <br/><b>Fig 33: First-Time Login (Granted Account)</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="975" height="362" alt="image" src="https://github.com/user-attachments/assets/5d8a2a66-fba5-4c59-af4d-d592980b142b" />
-      <br/><b>Fig 34: Change Initial Password</b>
-    </td>
-    <td align="center" width="50%">
-      <img width="1025" height="351" alt="image" src="https://github.com/user-attachments/assets/ef6c6426-1ebc-4ed8-8a0a-4dc8c3fbb42d" />
-      <br/><b>Fig 35: Change Initial Password Successfully</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="975" height="305" alt="image" src="https://github.com/user-attachments/assets/87e502be-ab91-43da-8ccf-da970ea7ea8c" />
-      <br/><b>Fig 36: Reset Password (Step 1)</b>
-    </td>
-    <td align="center" width="50%">
-      <img width="933" height="352" alt="image" src="https://github.com/user-attachments/assets/39b52e6b-d7a1-40c3-ab64-db3fc38fd396" />
-      <br/><b>Fig 37: Reset Password (Step 2)</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="803" height="277" alt="image" src="https://github.com/user-attachments/assets/fd0f7ccf-68f1-43a1-aaf1-73b3a355b8b0" />
-      <br/><b>Fig 38: Reset Password OTP Email</b>
-    </td>
-    <td align="center" width="50%">
-     <img width="614" height="367" alt="image" src="https://github.com/user-attachments/assets/1dfc062a-8742-46b0-bba3-79940fd2427a" />
-      <br/><b>Fig 39: Reset Password Successfully</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-       <img width="975" height="395" alt="image" src="https://github.com/user-attachments/assets/e18ec669-e51c-452c-8da2-4308a7d5b175" />
-      <br/><b>Fig 40: Update Profile (Step 1)</b>
-    </td>
-    <td align="center" width="50%">
-      <img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/c3442a85-2137-4bcc-84d0-ef76816f3245" />
-      <br/><b>Fig 41: Update Profile (Step 2)</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="938" height="345" alt="image" src="https://github.com/user-attachments/assets/dfbf5609-a5b0-4ce7-804c-c30f929a67d4" />
-      <br/><b>Fig 42: Update Profile Successfully</b>
-    </td>
-    <td align="center" width="50%">
-      </td>
-  </tr>
-</table>
-
-### 🌍 Guest View & Public Portal
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img width="975" height="651" alt="image" src="https://github.com/user-attachments/assets/b5db8558-1216-461a-b131-69299a729e2c" />
-      <br/><b>Fig 43: Home Page (Section 1)</b>
-    </td>
-    <td align="center" width="50%">
-      <img width="842" height="399" alt="image" src="https://github.com/user-attachments/assets/1e2493e7-b185-4823-beb6-9f973ae3e657" />
-      <br/><b>Fig 44: Home Page (Section 2)</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-     <img width="489" height="504" alt="image" src="https://github.com/user-attachments/assets/847862ba-aba8-471e-a976-ad84c38aa2f1" />
-      <br/><b>Fig 45: Home Page Responsiveness</b>
-    </td>
-    <td align="center" width="50%">
-      <img width="975" height="462" alt="image" src="https://github.com/user-attachments/assets/66f2bba4-b4f4-4dc5-8b1a-0b4b7849866e" />
-      <br/><b>Fig 46: Exploring Published Contributions</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-       <img width="504" height="615" alt="image" src="https://github.com/user-attachments/assets/eb830629-8dc1-461e-8cbd-d9396d79fdfe" />
-      <br/><b>Fig 47: Explore Page Responsiveness</b>
-    </td>
-    <td align="center" width="50%">
-      </td>
-  </tr>
-</table>
 
 ### ✍️ Contributor Hub
 <table align="center">
   <tr>
     <td align="center" width="50%">
     <img width="464" height="322" alt="image" src="https://github.com/user-attachments/assets/35be0f49-7d0c-46cb-acb8-59ea51729ce6" />
-      <br/><b>Fig 48: Contributor Page Access</b>
+      <br/><b>Contributor Page Access</b>
     </td>
     <td align="center" width="50%">
       <img width="1038" height="314" alt="image" src="https://github.com/user-attachments/assets/1b9ee98a-45ff-4aef-9de4-72285d45dd09" />
-      <br/><b>Fig 49: Submit Contribution (Select Period)</b>
+      <br/><b>Submit Contribution (Select Period)</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
      <img width="955" height="369" alt="image" src="https://github.com/user-attachments/assets/2bcadf5a-b279-4ece-8519-d2c57c5f06ef" />
-      <br/><b>Fig 50: Submit Contribution (Details)</b>
+      <br/><b>Submit Contribution (Details)</b>
     </td>
     <td align="center" width="50%">
      <img width="975" height="367" alt="image" src="https://github.com/user-attachments/assets/8f8d17f4-730d-4b16-931f-48e2fc513661" />
-      <br/><b>Fig 51: Submit Contribution (Confirm)</b>
+      <br/><b>Submit Contribution (Confirm)</b>
     </td>
   </tr>
   <tr>
@@ -240,37 +147,37 @@ For evaluation and testing purposes, you can use the following pre-configured ac
   <tr>
     <td align="center" width="50%">
       <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/f9b82278-84fb-4276-9624-45538d39854b" />
-      <br/><b>Fig 54: View My Contributions</b>
+      <br/><b>View My Contributions</b>
     </td>
     <td align="center" width="50%">
       <img width="838" height="328" alt="image" src="https://github.com/user-attachments/assets/a08593ca-4a41-41ae-9344-c4cd260233c3" />
-      <br/><b>Fig 55: Update Available Contribution</b>
+      <br/><b>Update Available Contribution</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img width="975" height="396" alt="image" src="https://github.com/user-attachments/assets/4d3725a3-84f1-42d9-8577-eb4c0b7498f9" />
-      <br/><b>Fig 56: Update Processed Contribution</b>
+      <br/><b>Update Processed Contribution</b>
     </td>
     <td align="center" width="50%">
       <img width="975" height="387" alt="image" src="https://github.com/user-attachments/assets/d279a71b-2ed1-4d95-942e-a8418e139514" />
-      <br/><b>Fig 57: Status Reverted to Processing</b>
+      <br/><b>Status Reverted to Processing</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img width="975" height="257" alt="image" src="https://github.com/user-attachments/assets/f53c580d-eb1a-43c7-b4e0-d767dd4f7fce" />
-      <br/><b>Fig 58: Update Notification Email</b>
+      <br/><b>Update Notification Email</b>
     </td>
     <td align="center" width="50%">
    <img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/31c44f26-48c0-49b0-8c20-85ebaf809103" />
-      <br/><b>Fig 59: View Faculty's Approved Articles (1)</b>
+      <br/><b>View Faculty's Approved Articles (1)</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
   <img width="975" height="462" alt="image" src="https://github.com/user-attachments/assets/6cc7ee69-9cf8-41d2-9048-a2db56dda818" />
-      <br/><b>Fig 60: View Faculty's Approved Articles (2)</b>
+      <br/><b>View Faculty's Approved Articles (2)</b>
     </td>
     <td align="center" width="50%">
       </td>
@@ -282,47 +189,47 @@ For evaluation and testing purposes, you can use the following pre-configured ac
   <tr>
     <td align="center" width="50%">
        <img width="975" height="280" alt="image" src="https://github.com/user-attachments/assets/879720e6-8e7d-46e6-ab39-68c8acbe1ee4" />
-      <br/><b>Fig 61: Create Contributor Account</b>
+      <br/><b>Create Contributor Account</b>
     </td>
     <td align="center" width="50%">
       <img width="975" height="366" alt="image" src="https://github.com/user-attachments/assets/46d4b29a-83cd-4aba-96bf-c0b2412d922c" />
-      <br/><b>Fig 62: Contributor Account Details Email</b>
+      <br/><b>Contributor Account Details Email</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/cea71d2d-0f33-41ae-877b-1cb8dbc74363" />
-      <br/><b>Fig 63: View Faculty Contributions</b>
+      <br/><b>View Faculty Contributions</b>
     </td>
     <td align="center" width="50%">
     <img width="975" height="351" alt="image" src="https://github.com/user-attachments/assets/18f2f18e-7578-40cb-86a2-54bb7b37ed5b" />
-      <br/><b>Fig 64: Provide Feedback</b>
+      <br/><b>Provide Feedback</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img width="975" height="294" alt="image" src="https://github.com/user-attachments/assets/ad4723f5-e8c2-4d38-a2a9-8bc20bb1d30d" />
-      <br/><b>Fig 65: Approve/Reject Contribution</b>
+      <br/><b>Approve/Reject Contribution</b>
     </td>
     <td align="center" width="50%">
        <img width="975" height="232" alt="image" src="https://github.com/user-attachments/assets/3eedb3f5-c811-4dea-afeb-99b3efe71b45" />
-      <br/><b>Fig 66: Approval Email Notification</b>
+      <br/><b>Approval Email Notification</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img width="975" height="304" alt="image" src="https://github.com/user-attachments/assets/c5457a1e-3af7-4b2c-9132-65f759391997" />
-      <br/><b>Fig 67: Publish/Unpublish Contribution</b>
+      <br/><b>Publish/Unpublish Contribution</b>
     </td>
     <td align="center" width="50%">
     <img width="898" height="238" alt="image" src="https://github.com/user-attachments/assets/ecf3e479-fa68-42a9-bc3e-551b3d60c3ed" />
-      <br/><b>Fig 68: Published Email Notification</b>
+      <br/><b>Published Email Notification</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img width="975" height="423" alt="image" src="https://github.com/user-attachments/assets/8ac5c321-4f4f-41f3-8487-5aa617f1c8b2" />
-      <br/><b>Fig 69: Coordinator Dashboard</b>
+      <br/><b>Coordinator Dashboard</b>
     </td>
     <td align="center" width="50%">
       </td>
@@ -334,31 +241,31 @@ For evaluation and testing purposes, you can use the following pre-configured ac
   <tr>
     <td align="center" width="50%">
       <img width="913" height="325" alt="image" src="https://github.com/user-attachments/assets/b7b8e34a-147a-43b3-bef9-f272b8311160" />
-      <br/><b>Fig 70: Create Coordinator Account</b>
+      <br/><b>Create Coordinator Account</b>
     </td>
     <td align="center" width="50%">
      <img width="975" height="399" alt="image" src="https://github.com/user-attachments/assets/d713fbf4-4ba5-4092-ab8c-88e697111ecd" />
-      <br/><b>Fig 71: Coordinator Account Details Email</b>
+      <br/><b>Coordinator Account Details Email</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
      <img width="975" height="461" alt="image" src="https://github.com/user-attachments/assets/dc61c453-8dd1-4175-8db7-d9702cac8e28" />
-      <br/><b>Fig 72: Global Contributions View</b>
+      <br/><b>Global Contributions View</b>
     </td>
     <td align="center" width="50%">
      <img width="975" height="462" alt="image" src="https://github.com/user-attachments/assets/05354a81-7a99-4bb2-a4a6-04829bf79ed4" />
-      <br/><b>Fig 73: Download Contributions as ZIP</b>
+      <br/><b>Download Contributions as ZIP</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
   <img width="936" height="442" alt="image" src="https://github.com/user-attachments/assets/807aa0fe-e72b-4b50-9b2e-da1e33f7a146" />
-      <br/><b>Fig 74: Manager Dashboard (Overview)</b>
+      <br/><b>Manager Dashboard (Overview)</b>
     </td>
     <td align="center" width="50%">
      <img width="975" height="465" alt="image" src="https://github.com/user-attachments/assets/68437803-64b9-4eec-93e2-af9dcf0a7d4b" />
-      <br/><b>Fig 75: Manager Dashboard (Detailed)</b>
+      <br/><b>Manager Dashboard (Detailed)</b>
     </td>
   </tr>
 </table>
@@ -368,58 +275,152 @@ For evaluation and testing purposes, you can use the following pre-configured ac
   <tr>
     <td align="center" width="50%">
      <img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/3e964287-987b-4709-8d41-e60b3e4be8d0" />
-      <br/><b>Fig 76: Admin User Management Table</b>
+      <br/><b>Admin User Management Table</b>
     </td>
     <td align="center" width="50%">
     <img width="975" height="269" alt="image" src="https://github.com/user-attachments/assets/82734299-9873-4971-8126-ee9dcecf3686" />
-      <br/><b>Fig 77: Modify User Role</b>
+      <br/><b>Modify User Role</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
      <img width="975" height="316" alt="image" src="https://github.com/user-attachments/assets/311645db-64e6-4399-9c38-04d91b55a426" />
-      <br/><b>Fig 78: Modify User Faculty</b>
+      <br/><b>Modify User Faculty</b>
     </td>
     <td align="center" width="50%">
      <img width="975" height="393" alt="image" src="https://github.com/user-attachments/assets/295a0392-547b-4501-a95e-522c8cb92174" />
-      <br/><b>Fig 79: Academic Periods Management</b>
+      <br/><b>Academic Periods Management</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
      <img width="975" height="393" alt="image" src="https://github.com/user-attachments/assets/8e87bab6-36e5-40db-8547-cc6f49d776f4" />
-      <br/><b>Fig 80: Create New Period</b>
+      <br/><b>Create New Period</b>
     </td>
     <td align="center" width="50%">
     <img width="975" height="385" alt="image" src="https://github.com/user-attachments/assets/a0d43ec7-8bce-4c23-85fd-c89cb25fe1b4" />
-      <br/><b>Fig 81: Update Existing Period</b>
+      <br/><b>Update Existing Period</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
      <img width="975" height="281" alt="image" src="https://github.com/user-attachments/assets/0a0c274f-cd54-4eea-a303-fdebeabb504b" />
-      <br/><b>Fig 82: Faculty Management Dashboard</b>
+      <br/><b>Faculty Management Dashboard</b>
     </td>
     <td align="center" width="50%">
       <img width="975" height="353" alt="image" src="https://github.com/user-attachments/assets/5e0d23e1-2641-4f2f-8437-a8f26a2ddd20" />
-      <br/><b>Fig 83: Create New Faculty</b>
+      <br/><b>Create New Faculty</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img width="975" height="341" alt="image" src="https://github.com/user-attachments/assets/2eb9085c-68ea-4401-aace-cb7ae43d6e83" />
-      <br/><b>Fig 84: Update Existing Faculty</b>
+      <br/><b>Update Existing Faculty</b>
     </td>
     <td align="center" width="50%">
 <img width="975" height="414" alt="image" src="https://github.com/user-attachments/assets/c00aaa67-a0a5-448b-b642-c4cedd588c7e" />
-      <br/><b>Fig 85: Global Account Creation Tool</b>
+      <br/><b>Global Account Creation Tool</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="100%" colspan="2">
       <img width="975" height="398" alt="image" src="https://github.com/user-attachments/assets/2cb79587-05b0-45fd-a185-2fc11820d71e" />
-      <br/><b>Fig 86: Account Credentials Dispatch Email</b>
+      <br/><b>Account Credentials Dispatch Email</b>
     </td>
+  </tr>
+</table>
+
+### 🔐 Authentication & Profile Management
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+       <img width="975" height="455" alt="image" src="https://github.com/user-attachments/assets/ecd13e4c-37b7-44f0-9598-041c071f710f" />
+      <br/><b>Login Screen</b>
+    </td>
+    <td align="center" width="50%">
+       <img width="813" height="379" alt="image" src="https://github.com/user-attachments/assets/dc7758ff-238a-4da5-86bc-57766e6c7b5a" />
+      <br/><b>First-Time Login (Granted Account)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="975" height="362" alt="image" src="https://github.com/user-attachments/assets/5d8a2a66-fba5-4c59-af4d-d592980b142b" />
+      <br/><b>Change Initial Password</b>
+    </td>
+    <td align="center" width="50%">
+      <img width="1025" height="351" alt="image" src="https://github.com/user-attachments/assets/ef6c6426-1ebc-4ed8-8a0a-4dc8c3fbb42d" />
+      <br/><b>Change Initial Password Successfully</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="975" height="305" alt="image" src="https://github.com/user-attachments/assets/87e502be-ab91-43da-8ccf-da970ea7ea8c" />
+      <br/><b>Reset Password (Step 1)</b>
+    </td>
+    <td align="center" width="50%">
+      <img width="933" height="352" alt="image" src="https://github.com/user-attachments/assets/39b52e6b-d7a1-40c3-ab64-db3fc38fd396" />
+      <br/><b>Reset Password (Step 2)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="803" height="277" alt="image" src="https://github.com/user-attachments/assets/fd0f7ccf-68f1-43a1-aaf1-73b3a355b8b0" />
+      <br/><b>Reset Password OTP Email</b>
+    </td>
+    <td align="center" width="50%">
+     <img width="614" height="367" alt="image" src="https://github.com/user-attachments/assets/1dfc062a-8742-46b0-bba3-79940fd2427a" />
+      <br/><b>Reset Password Successfully</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+       <img width="975" height="395" alt="image" src="https://github.com/user-attachments/assets/e18ec669-e51c-452c-8da2-4308a7d5b175" />
+      <br/><b>Update Profile (Step 1)</b>
+    </td>
+    <td align="center" width="50%">
+      <img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/c3442a85-2137-4bcc-84d0-ef76816f3245" />
+      <br/><b>Update Profile (Step 2)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="938" height="345" alt="image" src="https://github.com/user-attachments/assets/dfbf5609-a5b0-4ce7-804c-c30f929a67d4" />
+      <br/><b>Update Profile Successfully</b>
+    </td>
+    <td align="center" width="50%">
+      </td>
+  </tr>
+</table>
+
+### 🌍 Guest View & Public Portal
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="975" height="651" alt="image" src="https://github.com/user-attachments/assets/b5db8558-1216-461a-b131-69299a729e2c" />
+      <br/><b>Home Page (Section 1)</b>
+    </td>
+    <td align="center" width="50%">
+      <img width="842" height="399" alt="image" src="https://github.com/user-attachments/assets/1e2493e7-b185-4823-beb6-9f973ae3e657" />
+      <br/><b>Home Page (Section 2)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+     <img width="489" height="504" alt="image" src="https://github.com/user-attachments/assets/847862ba-aba8-471e-a976-ad84c38aa2f1" />
+      <br/><b>Home Page Responsiveness</b>
+    </td>
+    <td align="center" width="50%">
+      <img width="975" height="462" alt="image" src="https://github.com/user-attachments/assets/66f2bba4-b4f4-4dc5-8b1a-0b4b7849866e" />
+      <br/><b>Exploring Published Contributions</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+       <img width="504" height="615" alt="image" src="https://github.com/user-attachments/assets/eb830629-8dc1-461e-8cbd-d9396d79fdfe" />
+      <br/><b>Explore Page Responsiveness</b>
+    </td>
+    <td align="center" width="50%">
+      </td>
   </tr>
 </table>
 
