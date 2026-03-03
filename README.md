@@ -75,7 +75,7 @@ Our project utilizes a robust software stack to ensure optimal performance, main
 ### 1. Entity-Relationship Diagram (ERD)
 *Outlines the database schema, mapping the relationships between Users, Faculties, Periods, Contributions, and Roles.*
 <p align="center">
-  <img width="975" height="849" alt="image" src="https://github.com/user-attachments/assets/4a44cd20-4ac2-4346-99ed-a19e534c60a5" />
+ <img width="1583" height="1407" alt="COMP1640" src="https://github.com/user-attachments/assets/d51becbb-7517-4523-b68c-431de6b90b7f" />
 </p>
 
 ### 2. Use Case Diagram
